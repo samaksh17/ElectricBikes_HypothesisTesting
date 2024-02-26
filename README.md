@@ -6,10 +6,12 @@ E Bike zones are located at all the appropriate locations (including metro stati
 
 They have recently suffered considerable dips in its revenues. They have contracted a consulting company to understand the factors on which the demand for these shared electric cycles depends. Specifically, they want to understand the factors affecting the demand for these shared electric cycles in the Indian market.
 
-Our data analysis will help answer the below queries:
+Concept Used:
 
-- Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
-- How well those variables describe the electric cycle demands
+- Bi-Variate Analysis
+- 2-sample t-test: testing for difference across populations
+- ANNOVA
+- Chi-square
 
 Column Profiling:
 
@@ -29,10 +31,3 @@ Column Profiling:
 - casual: count of casual users
 - registered: count of registered users
 - count: count of total rental bikes including both casual and registered
-
-Concept Used:
-
-- Bi-Variate Analysis
-- 2-sample t-test: testing for difference across populations
-- ANNOVA
-- Chi-square
